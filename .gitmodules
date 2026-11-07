@@ -1,0 +1,4 @@
+[submodule "trapkit"]
+	path = third_party/trapkit
+	url = git@github.com:0xZ3n0x/trapkit.git
+	branch = master
